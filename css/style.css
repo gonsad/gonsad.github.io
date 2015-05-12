@@ -1,5 +1,8 @@
 body {
-	background-color: green;
+	text-align: center;
+	font-size:16px;
+	background: :url("images/food.jpg");
+
 }
 h1, p {
 	color: white
