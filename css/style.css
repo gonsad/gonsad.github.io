@@ -1,6 +1,9 @@
-body{
+body {
 	background-color: blue;
 	font: 16px;
 	background-position: center;
+	text-align: center;
+	background: url("images/tomato.jpg");
+
 	
 }
