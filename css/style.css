@@ -1,10 +1,33 @@
 body {
 	background-color: black;
-	font: 16px;
-	background-position: center;
-	text-align: center;
 	color: #ffffff;
-	
 
-	
 }
+img{ margin-left: 150px;
+
+}
+
+h1 { text-align: center;
+font-family: Helvetica, sans-serif;
+font-weight: normal;
+}
+
+h3 { text-align: center;
+font-family: Helvetica, sans-serif;
+font-weight: normal;
+}
+
+p { text-align: center;
+}
+
+#slogan { font-style: italic;
+}
+
+.service {text-align: center;
+}
+
+#contact {text-align: center;
+
+}
+
+
