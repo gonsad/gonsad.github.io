@@ -21,13 +21,13 @@ p { text-align: center;
 }
 
 .service {text-align: center;
+	padding: 0;
+	margin: 0;
 }
 
 #contact {text-align: center;
 
 }
 
-ul {text-align: center;
-}
 
 
