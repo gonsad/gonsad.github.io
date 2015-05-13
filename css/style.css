@@ -26,9 +26,10 @@ h3 { text-align: center;
 font-family: Helvetica, sans-serif;
 }
 
-img.center { display: block;
-margin-left: auto;
-margin-right: auto;
+img { 
+width: 300px;
+margin-left: 75px;
+}
 
 
 }
