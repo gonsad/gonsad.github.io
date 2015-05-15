@@ -1,7 +1,6 @@
 body {
 	background-color: #ccf0e8;
 	color: #ffffff;
-	font-size: 25px;
 	margin: 20px;
 	color: black;
 	font-family: 'Indie Flower', cursive;
@@ -22,6 +21,12 @@ h1, h2, h3 { text-align: center;
 
 }
 
+h1 {font-size: 40px;
+	
+}
+h2, h3, p {font-size: 30px;
+
+}
 
 
 img { 
