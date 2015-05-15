@@ -17,14 +17,15 @@ body {
 
 }
 
-h1, h2, h3 { text-align: center;
+h1, h3 { text-align: center;
 
 }
 
 h1 {font-size: 40px;
-	
+
 }
-h2, h3, p {font-size: 30px;
+
+ h3, p, ul {font-size: 30px;
 
 }
 
