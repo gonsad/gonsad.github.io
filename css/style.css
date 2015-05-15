@@ -4,6 +4,7 @@ body {
 	font-size: 25px;
 	margin: 20px;
 	color: black;
+	font-family: 'Poiret One', cursive;
 
 
 }
@@ -18,19 +19,13 @@ body {
 }
 
 h1 { text-align: center;
-font-family: 'Poiret One', cursive;
 
 }
 
 h3 { text-align: center;
-font-family: 'Poiret One', cursive;
+
 }
 
-.list {font-family: 'Poiret One', cursive;
-}
-
-p {font-family: 'Poiret One', cursive;
-}
 
 img { 
 width: 400px;
