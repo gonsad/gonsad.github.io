@@ -14,7 +14,6 @@ body {
 	margin: 0 auto;
 	padding: 20px;
 	background-position: center;
-	font-family: 'Poiret One', cursive;
 
 }
 
@@ -27,6 +26,11 @@ h3 { text-align: center;
 font-family: 'Poiret One', cursive;
 }
 
+.list {font-family: 'Poiret One', cursive;
+}
+
+p {font-family: 'Poiret One', cursive;
+}
 
 img { 
 width: 400px;
