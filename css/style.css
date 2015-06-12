@@ -3,19 +3,9 @@ body {
 	color: #ffffff;
 	margin: 20px;
 	color: black;
-	font-family: 'Amatic SC', cursive;
-
 
 }
 
-.wrapper {
-	background-color: #ffe6e6;
-	width: 900px;
-	margin: 0 auto;
-	padding: 20px;
-	background-position: center;
-
-}
 
 h1, h3 { text-align: center;
 
@@ -31,19 +21,9 @@ h1 {font-size: 60px;
 
 
 img { 
-width: 500px;
+width: 900px;
 margin-left: 195px;
 
-}
-
-
-#slogan { font-style: italic;
-}
-
-
-#contact {text-align: center;
-
-}
 
 
 
