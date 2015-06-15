@@ -45,12 +45,6 @@ section {
   overflow: auto;
 }
 
-div {
-  font-size: 1.2em;
-  width: 46%;
-  padding: 2%;
-  display: inline-block;
-}
 
 #picture {
   display: block;
@@ -63,19 +57,34 @@ div {
   float: left;
   list-style: none;
 	margin: 0;
-	padding: 0;
+	padding: 2%;
 	float: left;
-  width: 50%;
+  width: 46%;
   height: 6em;
   outline: 3px solid #222;
   text-align: center;
   line-height: 6em;
   color: #000;
   background: ##ff7f50;
+  font-size: 1.2em;
+  display: inline-block;
 }
 
 #services{
   float: right;
+  font-size: 1.2em;
+  list-style: none;
+	margin: 0;
+	padding: 2%;
+	float: left;
+  width: 46%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: ##ff7f50;
+  display: inline-block;
   
 }
 footer {
