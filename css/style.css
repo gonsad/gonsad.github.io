@@ -17,8 +17,7 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-  color: #ff7f50;
-  border-bottom-color: #ff7f50;
+  color: #000;
 }
 
 img {
@@ -40,11 +39,18 @@ nav a {
 	display: inline-block;
 }
 section {
-  background: ##ff7f50;
+  background: #ff7f50;
   color: #000;
   overflow: auto;
 }
 
+#services {
+	float: left;
+}
+
+#work {
+	float: right;
+}
   
 footer {
 	text-align: center;
