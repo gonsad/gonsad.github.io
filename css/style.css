@@ -35,9 +35,14 @@ nav a {
 	display: inline-block;
 }
 
+img {
+	display: block;
+	margin: 0 auto;
+	width: 480px;
+}
 
 div {
-	font-size: 1.5em;
+	font-size: 1.1em;
 	width: 46%;
 	padding: 2%;
 	display: inline-block;
@@ -49,6 +54,12 @@ div {
 
 #work {
 	float: right;
+}
+
+section {
+	background: #FF7F50;
+	color: #222;
+	overflow: auto; 
 }
 
 footer {
