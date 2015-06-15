@@ -1,69 +1,84 @@
 body {
-	font-size: 20px;
+	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
-
 }
 
 h1,h2 {
 	text-transform: uppercase;
+	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 800;
-}
+} 
 
-h1{
+h1 {
 	font-size: 2em;
-	color: #FF7F50;
-	
 }
 
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-    color: #fff;
-    
-}
-
-nav {
-	font-size: 1.8em;
-	float: right;
-}
-
-nav a {
-	text-decoration: none;
-	color: #FF7F50;
-	margin-left: 1.8em;
-	display: inline-block;
+  color: #fffebb;
+  border-bottom-color: #fffebb;
 }
 
 img {
 	display: block;
 	margin: 0 auto;
-	width: 480px;
+  width: 900px;
+} 
+
+ 
+li{
+  float: left;
+  width: 50%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff;
+}
+
+nav {
+	font-size: 1.8em;
+ 	float: right;
+} 
+
+nav a {	
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+	display: inline-block;
+}
+section {
+  background: #222;
+  color: #fff;
+  overflow: auto;
 }
 
 div {
-	font-size: 1.1em;
-	width: 46%;
-	padding: 2%;
-	display: inline-block;
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
+}
+#picture {
+  display: block;
+  width: 100%;
+  margin: 0;
+  background: #fffebb;
+}
+  
+#work {
+  float: left;
 }
 
 #services{
-	float: left;
+  float: right;
+  
 }
-
-#work {
-	float: right;
-}
-
-section {
-	background: #FF7F50;
-	color: #222;
-	overflow: auto; 
-}
-
 footer {
 	text-align: center;
 	padding: 1em 0;
-	clear: both;
+  clear: both;
 }
