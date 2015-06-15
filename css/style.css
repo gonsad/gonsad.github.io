@@ -17,7 +17,7 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-  color: #000;
+  color: #fff;
 }
 
 img {
@@ -38,9 +38,10 @@ nav a {
 	margin: 1.8em;
 	display: inline-block;
 }
+
 section {
   background: #ff7f50;
-  color: #000;
+  color: #fff;
   overflow: auto;
 }
 
