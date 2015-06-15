@@ -1,11 +1,56 @@
 body {
-	background-color: #ccf0e8;
-	color: #ffffff;
-	margin: 20px;
-	color: black;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
 
+h1, h2 {
+	text-transform: uppercase;
+	display: inline-block;
+	font-weight: 800;
 
+}
 
+h1{
+	font-size: 2em;
+}
 
+h2{
+	font-size: 1.5em;
+	padding: .8em 0;
+color: #fff;
+border-bottom-color: #fff;
 
+}
 
+img {
+	display: block;
+	margin: 0 auto;
+	width: 480px;
+
+}
+
+section {
+	background: #FF7F50;
+	color: #FF7F50;
+	overflow: auto;
+}
+
+div {
+	font-size: 1.5em;
+	width: 46%;
+	padding: 2%;
+	display: inline-block;
+}
+
+#services{
+	float: left;
+}
+
+#work {
+	float: right;
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
+	clear: both;
+}
