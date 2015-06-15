@@ -40,8 +40,8 @@ nav a {
 	display: inline-block;
 }
 section {
-  background: #222;
-  color: #fff;
+  background: ##ff7f50;
+  color: #000;
   overflow: auto;
 }
 
@@ -50,7 +50,6 @@ section {
   display: block;
   width: 100%;
   margin: 0;
-  background: #fffebb;
 }
   
 #work {
